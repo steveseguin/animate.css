@@ -40,9 +40,6 @@ https://steveseguin.github.io/animate.mit.css/
 | rotateOutUpLeft     | rollOut          | zoomInRight       | zoomOutRight      | slideInUp         | slideOutUp      |
 | rotateOutUpRight    |                  | zoomInUp          | zoomOutUp         |                   |                 |
 
-
-## _Just-add-water CSS animation_
-
 ## Installation
 
 Install with npm:
@@ -56,10 +53,6 @@ Install with yarn:
 ```shell
 yarn add animate.css
 ```
-
-## Accessibility
-
-Animate.css supports the [`prefers-reduced-motion` media query](https://webkit.org/blog/7551/responsive-design-for-motion/) so that users with motion sensitivity can opt out of animations. On supported platforms (currently all the majors browsers and OS), users can select "reduce motion" on their operating system preferences and it will turn off CSS transitions for them without any further work required.
 
 ## Original Core Team
 
