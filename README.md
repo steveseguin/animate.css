@@ -1,10 +1,8 @@
-# Animate.css
-
-[![GitHub Version](https://img.shields.io/github/release/steveseguin/animate.mit.css.svg?style=for-the-badge)](https://github.com/steveseguin/animate.mit.css/releases) [![Github Star](https://img.shields.io/github/stars/steveseguin/animate.mit.css.svg?style=for-the-badge)](https://github.com/steveseguin/animate.mit.css/stargazers) [![Github Fork](https://img.shields.io/github/forks/steveseguin/animate.mit.svg?style=for-the-badge)](https://github.com/steveseguin/animate.mit.css/network/members) [![License](https://img.shields.io/github/license/steveseguin/animate.mit.svg?style=for-the-badge)](https://github.com/steveseguin/animate.mit.css/blob/main/LICENSE)
+# Animate.MIT.css
 
 This is a fork of the original animate.css project; it was forked from the point where it was last updated as an MIT-licenced project, after which the licence changed to become non-compatible with open-source projects.
 
-Given the original project has also not been maintained in over a year, Jul 2022 to Nov 2023, I'll be pushing security updates and patches to this repository going forward instead, unless the original project owner choose to continue it.
+Given the original project has also not been maintained in over a year, Jul 2022 to Nov 2023, I'll be pushing security updates and patches to this repository going forward instead, unless the original project owner choose to continue it. I'm renaming things a bit to animate.mit.css v5, to help me avoid confusing the original project with this one.
 
 ## _Just-add-water CSS animation_
 
