@@ -4,6 +4,49 @@ This is a fork of the original animate.css project; it was forked from the point
 
 Given the original project has also not been maintained in over a year, Jul 2022 to Nov 2023, I'll be pushing security updates and patches to this repository going forward instead, unless the original project owner choose to continue it. I'm renaming things a bit to animate.mit.css v5, to help me avoid confusing the original project with this one.
 
+## Documentation
+https://steveseguin.github.io/animate.mit.css/
+
+| Attention Seekers | Back Entrances   | Back Exits       | Bouncing Entrances | Bouncing Exits    |
+|-------------------|------------------|------------------|--------------------|-------------------|
+| bounce            | backInDown       | backOutDown      | bounceIn           | bounceOut         |
+| flash             | backInLeft       | backOutLeft      | bounceInDown       | bounceOutDown     |
+| pulse             | backInRight      | backOutRight     | bounceInLeft       | bounceOutLeft     |
+| rubberBand        | backInUp         | backOutUp        | bounceInRight      | bounceOutRight    |
+| shakeX            |                  |                  | bounceInUp         | bounceOutUp       |
+| shakeY            |                  |                  |                    |                   |
+| headShake         |                  |                  |                    |                   |
+| swing             |                  |                  |                    |                   |
+| tada              |                  |                  |                    |                   |
+| wobble            |                  |                  |                    |                   |
+| jello             |                  |                  |                    |                   |
+| heartBeat         |                  |                  |                    |                   |
+
+| Fading Entrances    | Fading Exits       | Flippers       | Lightspeed        | Rotating Entrances  |
+|---------------------|--------------------|----------------|-------------------|---------------------|
+| fadeIn              | fadeOut            | flip           | lightSpeedInRight | rotateIn            |
+| fadeInDown          | fadeOutDown        | flipInX        | lightSpeedInLeft  | rotateInDownLeft    |
+| fadeInDownBig       | fadeOutDownBig     | flipInY        | lightSpeedOutRight| rotateInDownRight   |
+| fadeInLeft          | fadeOutLeft        | flipOutX       | lightSpeedOutLeft | rotateInUpLeft      |
+| fadeInLeftBig       | fadeOutLeftBig     | flipOutY       |                   | rotateInUpRight     |
+| fadeInRight         | fadeOutRight       |                |                   |                     |
+| fadeInRightBig      | fadeOutRightBig    |                |                   |                     |
+| fadeInUp            | fadeOutUp          |                |                   |                     |
+| fadeInUpBig         | fadeOutUpBig       |                |                   |                     |
+| fadeInTopLeft       | fadeOutTopLeft     |                |                   |                     |
+| fadeInTopRight      | fadeOutTopRight    |                |                   |                     |
+| fadeInBottomLeft    | fadeOutBottomRight |                |                   |                     |
+| fadeInBottomRight   | fadeOutBottomLeft  |                |                   |                     |
+
+| Rotating Exits      | Specials         | Zooming Entrances | Zooming Exits     | Sliding Entrances | Sliding Exits   |
+|---------------------|------------------|-------------------|-------------------|-------------------|-----------------|
+| rotateOut           | hinge            | zoomIn            | zoomOut           | slideInDown       | slideOutDown    |
+| rotateOutDownLeft   | jackInTheBox     | zoomInDown        | zoomOutDown       | slideInLeft       | slideOutLeft    |
+| rotateOutDownRight  | rollIn           | zoomInLeft        | zoomOutLeft       | slideInRight      | slideOutRight   |
+| rotateOutUpLeft     | rollOut          | zoomInRight       | zoomOutRight      | slideInUp         | slideOutUp      |
+| rotateOutUpRight    |                  | zoomInUp          | zoomOutUp         |                   |                 |
+
+
 ## _Just-add-water CSS animation_
 
 ## Installation
@@ -19,10 +62,6 @@ Install with yarn:
 ```shell
 yarn add animate.css
 ```
-
-## Documentation
-
-https://steveseguin.github.io/animate.mit.css/
 
 ## Accessibility
 
