@@ -7,20 +7,14 @@ Given the original project has also not been maintained in over a year, Jul 2022
 ## Documentation
 https://steveseguin.github.io/animate.mit.css/
 
-| Attention Seekers | Back Entrances   | Back Exits       | Bouncing Entrances | Bouncing Exits    |
-|-------------------|------------------|------------------|--------------------|-------------------|
-| bounce            | backInDown       | backOutDown      | bounceIn           | bounceOut         |
-| flash             | backInLeft       | backOutLeft      | bounceInDown       | bounceOutDown     |
-| pulse             | backInRight      | backOutRight     | bounceInLeft       | bounceOutLeft     |
-| rubberBand        | backInUp         | backOutUp        | bounceInRight      | bounceOutRight    |
-| shakeX            |                  |                  | bounceInUp         | bounceOutUp       |
-| shakeY            |                  |                  |                    |                   |
-| headShake         |                  |                  |                    |                   |
-| swing             |                  |                  |                    |                   |
-| tada              |                  |                  |                    |                   |
-| wobble            |                  |                  |                    |                   |
-| jello             |                  |                  |                    |                   |
-| heartBeat         |                  |                  |                    |                   |
+| Attention Seekers || Back Entrances   | Back Exits       | Bouncing Entrances | Bouncing Exits    |
+|-------------------|------------------|------------------|------------------|--------------------|-------------------|
+| bounce            |heartBeat| backInDown       | backOutDown      | bounceIn           | bounceOut         |
+| flash             |jello| backInLeft       | backOutLeft      | bounceInDown       | bounceOutDown     |
+| pulse             |wobble| backInRight      | backOutRight     | bounceInLeft       | bounceOutLeft     |
+| rubberBand        |tada| backInUp         | backOutUp        | bounceInRight      | bounceOutRight    |
+| shakeX            |swing|                  |                  | bounceInUp         | bounceOutUp       |
+| shakeY            |headShake|                  |                  |                    |                   |
 
 | Fading Entrances    | Fading Exits       | Flippers       | Lightspeed        | Rotating Entrances  |
 |---------------------|--------------------|----------------|-------------------|---------------------|
