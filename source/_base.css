@@ -54,7 +54,7 @@
 .animated.slower {
   animation-duration: calc(var(--animate-duration) * 3);
 }
-
+/*
 @media print, (prefers-reduced-motion: reduce) {
   .animated {
     animation-duration: 1ms !important;
@@ -66,3 +66,4 @@
     opacity: 0;
   }
 }
+*/
