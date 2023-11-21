@@ -2,7 +2,7 @@
 
 [![GitHub Version](https://img.shields.io/github/release/animate-css/animate.css.svg?style=for-the-badge)](https://github.com/animate-css/animate.css/releases) [![Github Star](https://img.shields.io/github/stars/animate-css/animate.css.svg?style=for-the-badge)](https://github.com/animate-css/animate.css/stargazers) [![Github Fork](https://img.shields.io/github/forks/animate-css/animate.css.svg?style=for-the-badge)](https://github.com/animate-css/animate.css/network/members) [![License](https://img.shields.io/github/license/animate-css/animate.css.svg?style=for-the-badge)](https://github.com/animate-css/animate.css/blob/main/LICENSE)
 
-> If you need the old docs - v3.x.x and under - you can find it [here](https://github.com/animate-css/animate.css/tree/a8d92e585b1b302f7749809c3308d5e381f9cb17).
+This is a fork of the original animate.css project; it was forked from the point where it was last updated as an MIT-licenced project, after which the licence changed to become non-compatible with open-source projects. Given the original project has also not been maintained in over a year, Jul 2022 to Nov 2023, I'll be pushing security updates and patches to this repository going forward instead, unless the original project owner choose to continue it.
 
 ## _Just-add-water CSS animation_
 
